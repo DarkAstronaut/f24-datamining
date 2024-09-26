@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCIS6273 FALL 2024 Data Mining
 
 
@@ -22,3 +23,12 @@
 
 
 -->
+=======
+# f24-datamining
+For Data Mining
+Zotero: DarkAstronaut
+
+All you can see in space is some beautiful start, colorful reactions and DARKNESS...
+and si l e  n  c   e   .     .      .    
+            - DarkAstronaut
+>>>>>>> 07ea78bef60400d7d3fff431df8eed8c4bc91f73
